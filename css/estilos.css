@@ -705,11 +705,13 @@ img:hover{
 .img-user {
     background: white;
     border-radius: 50%;
-    border: 6px double #55b6bc;
+    border: 4px solid #1c307a;
+    padding-top: 10px;
+    margin-top: -30px;
 }
 
 .img-covid {
-    color: #55b6bc;
+    color: white;
     font-size: 30px;
 }
 
